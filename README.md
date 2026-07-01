@@ -1,5 +1,5 @@
 # Mantra-hotel-assignment
-Frontend Hotel Website design assignment for MANTRA 2026 Summer School. Live at: https://neon-bunny-c51470.netlify.app
+Frontend Hotel Website design assignment for MANTRA 2026 Summer School. Live at: https://neon-bunny-c51470.netlify.app/
 # MANTRA 2026 Summer School - Assignment 1
 
 ### Student Details
@@ -11,7 +11,7 @@ Frontend Hotel Website design assignment for MANTRA 2026 Summer School. Live at:
 
 ### Project Links
 * **GitHub Repository:** https://github.com/santhoshterli6-star/mantra-hotel-assignment
-* **Netlify Live Website:** https://neon-bunny-c51470.netlify.app
+* **Netlify Live Website:**https://neon-bunny-c51470.netlify.app/
 
 ---
 
